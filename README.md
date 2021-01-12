@@ -4,7 +4,7 @@
 
 ## 文件夹说明
 
-+ preparing：numpy,matlibplot,pandas 的基本练习。
++ preparing：numpy、matplotlib、pandas 等相关python库的基本练习。
 
 
 ## 相关链接
