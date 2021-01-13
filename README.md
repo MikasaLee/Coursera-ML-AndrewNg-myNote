@@ -11,4 +11,4 @@
 
 + [中英字幕吴恩达机器学习系列课程](https://www.bilibili.com/video/BV164411b7dx?from=search&seid=5856176897296408924)
 + [机器学习初学者-AI入门宝典](http://www.ai-start.com/)
-+ [我的科研民工之路](https://mikasalee.github.io/2021/01/09/PlanAndRoadOfML/)
++ [我的科研民工之路](https://mikasalee.github.io/2021/01/09/MachineLearning/)
