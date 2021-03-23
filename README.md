@@ -10,6 +10,11 @@
 + ex[number]-[homework name]-myAnswer：每一章的个人实现。
 + \*.yaml：分别为 win10 和 ubuntu 上 conda 的环境
 
+## 日志
+
++ 2021-1-9：start
++ 2021-3-23：end
+
 ## 相关链接
 
 + [中英字幕吴恩达机器学习系列课程](https://www.bilibili.com/video/BV164411b7dx?from=search&seid=5856176897296408924)
